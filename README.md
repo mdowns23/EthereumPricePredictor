@@ -1,1 +1,7 @@
 # EthereumPricePredictor
+
+The purpose of this project is to get some insight on Ethereum's price fluctuations through data analysis and machine learning.
+
+This project gets its data from Yahoo Finance and uses the pandas and prophet library for data analysis and machine learning.
+
+This project is based on the following article: https://medium.com/bitgrit-data-science-publication/ethereum-price-prediction-with-python-3b3805e6e512
